@@ -1,6 +1,6 @@
-# Fahamida React Portfolio
+# Iftekhar Islam Jihad React Portfolio
 
-This is a React + Vite portfolio project for Fahamida Amin Tonni.
+This is a React + Vite portfolio project for Iftekhar Islam Jihad.
 
 ## Run locally
 
